@@ -10,3 +10,5 @@ math.h
 gl\gl.h
 gl\glu.h
 gl\freeglut.h
+
+There is two version. test it by urself
